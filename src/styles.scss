@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files.
+ * Manage the style of each component here.
+ */
+
+// global
+// app-second,
+app-first{
+  @import './app/programs-style/basic.scss';
+}
+// local
